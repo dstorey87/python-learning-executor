@@ -1,0 +1,1 @@
+# Executor Service Requirements\nFlask==2.3.3\nflask-cors==4.0.0\nflask-limiter==3.5.0\nWerkzeug==2.3.7\nredis==5.0.1
